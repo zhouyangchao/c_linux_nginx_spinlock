@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1449909282 source:/root/Documents/github/c_linux_nginx_spinlock/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"spinlock.h"
+
+1449903310 /root/Documents/github/c_linux_nginx_spinlock/spinlock.h
+	<inttypes.h>
+	<unistd.h>
+	<sys/mman.h>
+	<stdint.h>
+
+1449907348 source:/root/Documents/github/c_linux_nginx_spinlock/spinlock.c
+	"spinlock.h"
+
